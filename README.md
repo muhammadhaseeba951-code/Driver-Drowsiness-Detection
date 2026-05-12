@@ -22,13 +22,11 @@ The project was developed as part of a Data Science / Deep Learning assignment f
 
 Dataset used: **Yawn Eye Dataset**
 
-Kaggle Dataset Link:
-https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new
+Kaggle Dataset Link: https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new
 
 Since GitHub does not allow uploading large files above the storage limit, the dataset is not included directly in this repository.
 
-Dataset Drive Link:
-[Paste Your Google Drive Dataset Link Here]
+Dataset Drive Link: https://drive.google.com/file/d/1qd3y9K-Z6tBRoumpMGnlhnZkAsMY2FR3/view?usp=sharing
 
 ---
 
@@ -54,7 +52,7 @@ Dataset Drive Link:
 
 ### 2. CNN Model Training
 
-The project uses an AlexNet-inspired CNN architecture for binary classification between:
+The project uses the model trained on AlexNet CNN architecture for binary classification between:
 
 * Drowsy
 * Alert
@@ -97,10 +95,9 @@ The project structure also supports understanding of webcam-based real-time drow
 ## How to Run
 
 1. Open the notebook in Google Colab or Jupyter Notebook.
-2. Download or connect the dataset using the provided Drive link.
-3. Run all notebook cells sequentially.
-4. Train the CNN model.
-5. Evaluate predictions and results.
+2. Run all notebook cells sequentially.
+3. Train the CNN model.
+4. Evaluate predictions and results.
 
 ---
 
@@ -109,8 +106,7 @@ The project structure also supports understanding of webcam-based real-time drow
 * Trained Driver Drowsiness Classification Model
 * Accuracy and loss evaluation
 * Prediction outputs
-* Real-time detection understanding (optional)
-
+  
 ---
 
 ## Academic Context
