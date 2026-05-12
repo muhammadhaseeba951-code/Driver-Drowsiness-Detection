@@ -82,22 +82,10 @@ The project structure also supports understanding of webcam-based real-time drow
 
 ## Important Notes
 
-* The notebook file is available in this GitHub repository.
-* A working Google Colab link is also attached.
 * Since GitHub does not allow large dataset uploads, the dataset is sourced externally through Google Drive.
-* The dataset link is provided above in this README file.
 * After opening the notebook, you may select **"Run All"** to execute the complete workflow.
 * Once execution is completed, the trained model will be generated/downloaded in the runtime files.
 * If you are opening the notebook from a mobile device, it is recommended to install the Google Colab application for better compatibility.
-
----
-
-## How to Run
-
-1. Open the notebook in Google Colab or Jupyter Notebook.
-2. Run all notebook cells sequentially.
-3. Train the CNN model.
-4. Evaluate predictions and results.
 
 ---
 
